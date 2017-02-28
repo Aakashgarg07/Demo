@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36662" started-at="2017-02-28T06:11:45Z" finished-at="2017-02-28T06:12:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36662" started-at="2017-02-28T06:11:45Z" finished-at="2017-02-28T06:12:22Z">
+      <class name="test.java.TestCase">
+        <test-method status="PASS" signature="precondtion()[pri:0, instance:test.java.TestCase@61832929]" name="precondtion" is-config="true" duration-ms="26663" started-at="2017-02-28T11:41:45Z" finished-at="2017-02-28T11:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondtion -->
+        <test-method status="PASS" signature="test()[pri:0, instance:test.java.TestCase@61832929]" name="test" duration-ms="9979" started-at="2017-02-28T11:42:12Z" finished-at="2017-02-28T11:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="close_browser()[pri:0, instance:test.java.TestCase@61832929]" name="close_browser" is-config="true" duration-ms="0" started-at="2017-02-28T11:42:22Z" finished-at="2017-02-28T11:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- test.java.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
